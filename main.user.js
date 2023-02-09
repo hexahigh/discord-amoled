@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Discord EPYC
+// @name         Discord Amoled
 // @namespace    https://boofdev.eu.org
 // @version      0.1
 // @description  Make discord EPYC!
