@@ -6,7 +6,6 @@ Simple amoled discord theme that can be used in a web browser.
 You first need to install tampermonkey
 
 Chrome: <a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo/">https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo/</a>
-
 Firefox: <a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/</a>
   
 
