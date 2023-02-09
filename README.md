@@ -10,7 +10,7 @@ Chrome: https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfk
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
   
 
-When its installed press the link underneath and press install.
+When its installed click the link underneath and press install.
 
-https://github.com/hexahigh/discord-amoled/raw/main/main.user.js
+<a href="https://github.com/hexahigh/discord-amoled/raw/main/main.user.js">https://github.com/hexahigh/discord-amoled/raw/main/main.user.js</a>
 </pre>
