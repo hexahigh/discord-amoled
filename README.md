@@ -6,8 +6,8 @@ You need to install tampermonkey
 
 Chrome: https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo/
 
-Firfox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
-
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+  
 
 When its installed press the link underneath and press install.
 
