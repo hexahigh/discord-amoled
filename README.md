@@ -1,6 +1,6 @@
 # discord-amoled
 Simple amoled discord theme that can be used in a web browser.
-
+<pre>
 # Installation
 You need to install tampermonkey
 
@@ -12,3 +12,4 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 When its installed press the link underneath and press install.
 
 https://github.com/hexahigh/discord-amoled/raw/main/main.user.js
+</pre>
